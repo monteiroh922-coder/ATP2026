@@ -1,4 +1,0 @@
-git reset --soft HEAD^
-it push origin +TPC1--force
-
-
